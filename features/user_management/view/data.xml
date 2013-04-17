@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+    <root>
+      <Users>
+        <blockID>1</blockID>
+        <uid>1</uid>
+        <name>Mukhamad Ikhsan</name>
+        <uname>ikhsan</uname>
+        <email>ikhsan_only@yahoo.co.uk</email>
+        <femail></femail>
+        <url></url>
+        <user_regdate>2008-04-11 11:09:46</user_regdate>
+        <user_icq></user_icq>
+        <user_sig></user_sig>
+        <user_viewemail></user_viewemail>
+        <user_theme>default_themes</user_theme>
+        <user_aim></user_aim>
+        <user_yim></user_yim>
+        <pass>4e9194a3bb65ab53e41247480905c391</pass>
+        <umode>Administrator</umode>
+        <status>A</status>
+      </Users>
+      <Users>
+        <blockID>
+1
+        </blockID>
+        <uid>
+2
+        </uid>
+        <name>
+Administrator
+        </name>
+        <uname>
+admin
+        </uname>
+        <email>
+admin@admin.com
+        </email>
+        <femail></femail>
+        <url></url>
+        <user_regdate>
+2008-05-11 11:09:46
+        </user_regdate>
+        <user_icq></user_icq>
+        <user_sig></user_sig>
+        <user_viewemail></user_viewemail>
+        <user_theme>
+default_themes
+        </user_theme>
+        <user_aim></user_aim>
+        <user_yim></user_yim>
+        <pass>
+21232f297a57a5a743894a0e4a801fc3
+        </pass>
+        <umode>
+Administrator
+        </umode>
+        <status>
+A
+        </status>
+      </Users>
+      <Users>
+        <blockID>
+1
+        </blockID>
+        <uid>
+3
+        </uid>
+        <name>
+Guest User
+        </name>
+        <uname>
+guest
+        </uname>
+        <email>
+guest@guest.com
+        </email>
+        <femail></femail>
+        <url></url>
+        <user_regdate>
+2008-05-11 11:09:46
+        </user_regdate>
+        <user_icq></user_icq>
+        <user_sig></user_sig>
+        <user_viewemail></user_viewemail>
+        <user_theme>
+default_themes
+        </user_theme>
+        <user_aim></user_aim>
+        <user_yim></user_yim>
+        <pass>
+084e0343a0486ff05530df6c705c8bb4
+        </pass>
+        <umode>
+Member
+        </umode>
+        <status>
+A
+        </status>
+      </Users>
+    </root>

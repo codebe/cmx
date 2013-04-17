@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<root><block><blockID>1</blockID><content>&lt;p&gt;CMX is a Content Management System that fully featured AJAX Technology for more efficient Web Application&lt;/p&gt;&#xD;
+&lt;p&gt;The Advantage of CMX :&lt;/p&gt;&#xD;
+&lt;ol&gt;&#xD;
+    &lt;li&gt;Do not need load page repeatedly every request has been sent&lt;/li&gt;&#xD;
+
+    &lt;li&gt;More dynamic user interface&lt;/li&gt;&#xD;
+    &lt;li&gt;Easy to developing module, CMX using MVC pattern&lt;/li&gt;&#xD;
+    &lt;li&gt;Easy to make theme, CMX using XSL as template&lt;/li&gt;&#xD;
+    &lt;li&gt;Tambah&lt;/li&gt;&#xD;
+
+&lt;/ol&gt;&#xD;
+&lt;p&gt;We need many review, to improve and fix bugs in CMX, So if find any bugs pleas tell us to &lt;a href="mailto:cmx@diodachi.com"&gt;cmx@diodachi.com&lt;/a&gt;&lt;/p&gt;</content><content_type>text</content_type></block></root>
